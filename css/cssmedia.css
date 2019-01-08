@@ -1,0 +1,84 @@
+@media only screen and (max-width: 700px){
+
+.container{
+
+display: grid;
+
+
+}
+
+#sverh{
+
+  font-size: 20px;
+  
+   
+}
+
+
+
+
+#centr{
+
+	font-size: 17px;
+
+	
+
+	
+} 
+
+
+
+
+
+
+#main{
+	background-size: 100%;
+	width:300px;
+	height:200px;
+	margin:0 auto;
+	border-radius :170px;
+	display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+#item {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 9px;
+    border: none;
+    cursor: pointer;
+  font-size: 25px;
+    text-align: center;
+    width: 100px;
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
